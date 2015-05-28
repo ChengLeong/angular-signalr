@@ -159,6 +159,8 @@ controller('MyCtrl', function (myHub) {
       case $.signalR.connectionState.disconnected:
         //your code here
         break;
+        
+        asd
     }
   });
 });
